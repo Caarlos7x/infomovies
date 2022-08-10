@@ -1,5 +1,6 @@
 # INFO MOVIES
 
+<img height="300px" src="https://i.imgur.com/QMNWuEp.gif">
 
 [Deploy](https://infomovies-sigma.vercel.app/)
 
