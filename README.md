@@ -1,6 +1,7 @@
 # INFO MOVIES
 
 
+[Deploy](https://infomovies-sigma.vercel.app/)
 
 ## 🚀 Começando -
 
@@ -35,7 +36,7 @@ Versão única
 
 ## 🎁 Agradecimentos
 
-- Gratidão à [matheusbattisti](https://github.com/matheusbattisti)
+- Gratidão à [matheusbattisti](https://github.com/matheusbattisti) e [M0nicaVaz](https://github.com/M0nicaVaz)
 
 ---
 
